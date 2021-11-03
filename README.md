@@ -1,6 +1,4 @@
 # BigDataGuide
-大数据技术组件汇总
-
 ### 查询/搜索/分析引擎
 
 + **[深入理解Presto](https://zhuanlan.zhihu.com/p/101366898)** 
